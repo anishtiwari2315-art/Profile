@@ -60,7 +60,7 @@
 ###  Recent Projects
 
 - **[DevOps Terraform Docker Deployment](https://github.com/anish-tiwari--art/devops-terraform-docker-deployment)** - AWS EC2 deployment with Terraform and Docker for DevOps internship assignment
-- **[DevOps Intern Assignment 8byte](https://github.com/anish-tiwari--art/devops-intern-assignment-8byte)** - Node.js app with Docker, Terraform (AWS EC2), and GitHub Actions CI/CD
+- **[DevOps Assignment ](https://github.com/anish-tiwari--art/devops-intern-assignment-8byte)** - Node.js app with Docker, Terraform (AWS EC2), and GitHub Actions CI/CD
 
 ---
 
