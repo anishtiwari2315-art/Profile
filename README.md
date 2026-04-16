@@ -31,6 +31,7 @@
 
 #### CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Languages & Frameworks
@@ -48,7 +49,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anishtiwari2315-art&theme=radical)
 
 ---
@@ -67,6 +67,8 @@
 |---------|-------------|------------|
 | **[aws-infra-lab](https://github.com/anishtiwari2315-art/aws-infra-lab)** | Automated Multi-Tier AWS infrastructure with VPC, EC2 Auto Scaling, ALB, RDS (Multi-AZ), CloudWatch alarms, and S3 backend via Terraform | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **[cicd-docker-app](https://github.com/anishtiwari2315-art/cicd-docker-app)** | Production-grade Node.js microservice with 7-stage Jenkins pipeline, GitHub Actions, Docker multi-stage build, Kubernetes (HPA, PDB, Ingress), Redis cache & Nginx reverse proxy | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **[devops-assignment](https://github.com/anishtiwari2315-art/devops-assignment)** | DevOps Technical Assignment - Node.js app containerized with Docker, provisioned on AWS EC2 via Terraform, and automated with GitHub Actions CI/CD pipeline | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **[devops-terraform-docker-deployment](https://github.com/anishtiwari2315-art/devops-terraform-docker-deployment)** | AWS EC2 deployment automation using Terraform for infrastructure provisioning and Docker for containerized application deployment with GitHub Actions workflow | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) |
 
 #### aws-infra-lab highlights
 - Provisioned full VPC with public/private subnets, NAT Gateway, IGW across 2 AZs
@@ -81,6 +83,18 @@
 - Multi-stage Docker build reducing image size by ~60% with non-root user
 - Kubernetes HPA (2–10 replicas), Pod Disruption Budget, rolling zero-downtime updates
 - Redis caching layer, Nginx reverse proxy, Prometheus `/metrics` endpoint
+
+#### devops-assignment highlights
+- End-to-end DevOps pipeline from code to cloud deployment
+- Dockerized Node.js application with optimized multi-stage build
+- Terraform-provisioned AWS EC2 infrastructure with automated setup
+- GitHub Actions CI/CD: build, test, push to Docker Hub, and deploy to EC2
+
+#### devops-terraform-docker-deployment highlights
+- Infrastructure-as-Code with Terraform for repeatable AWS EC2 provisioning
+- Docker containerization with `.dockerignore` for optimized builds
+- GitHub Actions workflow automating build and deployment pipeline
+- Clean separation of app code and infrastructure configuration
 
 ---
 
