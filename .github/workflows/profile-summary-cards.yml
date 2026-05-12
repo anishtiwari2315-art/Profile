@@ -1,0 +1,33 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: anishtiwari2315-art
+      - name: Commit & Push changes
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await exec.exec('git', ['config', 'user.email', 'action@github.com'])
+            await exec.exec('git', ['config', 'user.name', 'GitHub Action'])
+            await exec.exec('git', ['add', '-A'])
+            try {
+              await exec.exec('git', ['commit', '-m', 'Update profile summary cards'])
+              await exec.exec('git', ['push'])
+            } catch (error) {
+              console.log('Nothing to commit')
+            }
