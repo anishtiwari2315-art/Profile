@@ -55,8 +55,7 @@
 
 ### Contribution Graph
 
-&nbsp;
-
+ 
 ![github-snake](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg)
 
 ---
@@ -69,6 +68,7 @@
 | **[cicd-docker-app](https://github.com/anishtiwari2315-art/cicd-docker-app)** | Production-grade Node.js microservice with 7-stage Jenkins pipeline, GitHub Actions, Docker multi-stage build, Kubernetes (HPA, PDB, Ingress), Redis cache & Nginx reverse proxy | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 | **[devops-assignment](https://github.com/anishtiwari2315-art/devops-assignment)** | DevOps Technical Assignment - Node.js app containerized with Docker, provisioned on AWS EC2 via Terraform, and automated with GitHub Actions CI/CD pipeline | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 | **[devops-terraform-docker-deployment](https://github.com/anishtiwari2315-art/devops-terraform-docker-deployment)** | AWS EC2 deployment automation using Terraform for infrastructure provisioning and Docker for containerized application deployment with GitHub Actions workflow | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) |
+| **[devsecops-security-pipeline](https://github.com/anishtiwari2315-art/devsecops-security-pipeline)** | Real-world DevSecOps CI pipeline with automated security scanning — unit tests, npm audit, Trivy filesystem & Docker image scan (CVE detection), and CodeQL SAST on every push | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Security](https://img.shields.io/badge/DevSecOps-FF0000?style=flat-square&logo=shield&logoColor=white) |
 
 #### aws-infra-lab highlights
 - Provisioned full VPC with public/private subnets, NAT Gateway, IGW across 2 AZs
@@ -95,6 +95,14 @@
 - Docker containerization with `.dockerignore` for optimized builds
 - GitHub Actions workflow automating build and deployment pipeline
 - Clean separation of app code and infrastructure configuration
+
+#### devsecops-security-pipeline highlights
+- 4-job GitHub Actions pipeline: Unit Tests → Dependency Scan → Docker Image Scan → CodeQL SAST
+- Trivy v0.35.0 scans both npm filesystem and Docker image for CRITICAL/HIGH CVEs
+- CodeQL static analysis detects JavaScript security vulnerabilities (XSS, injection, etc.)
+- Scan results uploaded to GitHub Security tab as SARIF reports
+- Multi-stage Docker build with non-root user following security best practices
+- Nightly scheduled scan to catch newly discovered CVEs automatically
 
 ---
 
