@@ -49,7 +49,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anishtiwari2315-art&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/anishtiwari2315-art)
 
-[![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anishtiwari2315-art)
+![Profile Details](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/0-profile-details.svg)
+![Repos Per Language](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![Most Commit Language](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+![Stats](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/3-stats.svg) ![Productive Time](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/4-productive-time.svg)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anishtiwari2315-art)
 
 <div align="center">
