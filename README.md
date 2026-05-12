@@ -47,8 +47,10 @@
 
 ### GitHub Stats
 
-[![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)](https://github.com/anishtiwari2315-art)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/anishtiwari2315-art)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anishtiwari2315-art&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/anishtiwari2315-art)
+
+[![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anishtiwari2315-art)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anishtiwari2315-art)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=anishtiwari2315-art&theme=radical&hide_border=true" />
