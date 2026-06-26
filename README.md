@@ -45,25 +45,68 @@
 
 ---
 
-### GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anishtiwari2315-art&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/anishtiwari2315-art)
-
-![Profile Details](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/0-profile-details.svg)
-![Repos Per Language](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![Most Commit Language](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/2-most-commit-language.svg)
-![Stats](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/3-stats.svg) ![Productive Time](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/4-productive-time.svg)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anishtiwari2315-art)
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anishtiwari2315-art&theme=radical&hide_border=true" />
+
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anishtiwari2315-art&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/anishtiwari2315-art)
+
+---
+
+### 📈 Activity & Streak
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Anish's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishtiwari2315-art&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+---
+
+### 📅 Contribution Graph
+
+[![Anish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anishtiwari2315-art&theme=redical&hide_border=true&area=true)](https://github.com/anishtiwari2315-art)
+
+---
+
+### 🔍 Profile Summary
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/0-profile-details.svg" /></td>
+    <td><img src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/3-stats.svg" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/1-repos-per-language.svg" /></td>
+    <td><img src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/2-most-commit-language.svg" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/main/profile-summary-card-output/radical/4-productive-time.svg" /></td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### Contribution Graph
+### Contribution Snake
 
- 
-![github-snake](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg" alt="github contribution snake" />
+</div>
 
 ---
 
@@ -123,6 +166,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=anishtiwari2315-art&color=brightgreen)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishtiwari2315-art&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ### "Automate everything, deploy with confidence!"
