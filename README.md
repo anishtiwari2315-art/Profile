@@ -47,15 +47,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anishtiwari2315-art&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/anishtiwari2315-art)
-
----
-
-
 
 ### 📅 Contribution Graph
 
