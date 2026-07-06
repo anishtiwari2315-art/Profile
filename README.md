@@ -36,12 +36,13 @@ Git, GitHub, Linux
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=anishtiwari2315-art&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishtiwari2315-art&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishtiwari2315-art&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anishtiwari2315-art&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <img height="165" src="https://streak-stats.demolab.com?user=anishtiwari2315-art&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Featured Projects
