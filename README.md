@@ -36,12 +36,12 @@ Git, GitHub, Linux
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=anishtiwari2315-art&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
 </p>
 
 ## Featured Projects
@@ -49,25 +49,29 @@ Git, GitHub, Linux
 ### [aws-infra-lab](https://github.com/anishtiwari2315-art/aws-infra-lab)
 Automated multi-tier AWS infrastructure with VPC, EC2 Auto Scaling, ALB, RDS Multi-AZ, CloudWatch alarms, and S3-backed Terraform state.
 
-**Highlights:** Modular Terraform, public/private subnets across 2 AZs, load balancing, observability, and production-style infrastructure design.  
+**Highlights:** Modular Terraform, public/private subnets across 2 AZs, load balancing, observability, and production-style infrastructure design.
+
 **Tech:** Terraform, AWS, Bash
 
 ### [cicd-docker-app](https://github.com/anishtiwari2315-art/cicd-docker-app)
 Production-grade Node.js microservice with Jenkins pipeline, GitHub Actions, Docker, Kubernetes, Redis, and Nginx.
 
-**Highlights:** 7-stage CI/CD pipeline, multi-stage Docker build, Kubernetes HPA and rolling deployment strategy, metrics exposure, and reverse proxy setup.  
+**Highlights:** 7-stage CI/CD pipeline, multi-stage Docker build, Kubernetes HPA and rolling deployment strategy, metrics exposure, and reverse proxy setup.
+
 **Tech:** Docker, Kubernetes, Jenkins, Node.js
 
 ### [devops-assignment](https://github.com/anishtiwari2315-art/devops-assignment)
 End-to-end DevOps project with Dockerized application deployment on AWS EC2 using Terraform and GitHub Actions.
 
-**Highlights:** Build, test, containerize, provision infrastructure, and deploy automatically through a clean CI/CD workflow.  
+**Highlights:** Build, test, containerize, provision infrastructure, and deploy automatically through a clean CI/CD workflow.
+
 **Tech:** Docker, Terraform, GitHub Actions, Node.js
 
 ### [devsecops-security-pipeline](https://github.com/anishtiwari2315-art/devsecops-security-pipeline)
 DevSecOps CI pipeline with automated security checks integrated into development workflow.
 
-**Highlights:** Unit tests, npm audit, Trivy scans, Docker image checks, CodeQL analysis, and scheduled security scanning.  
+**Highlights:** Unit tests, npm audit, Trivy scans, Docker image checks, CodeQL analysis, and scheduled security scanning.
+
 **Tech:** GitHub Actions, Docker, Node.js, Security
 
 ## Connect
