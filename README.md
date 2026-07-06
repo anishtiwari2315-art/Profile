@@ -45,8 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 
 ### 📅 Contribution Graph
 
